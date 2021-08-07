@@ -1,2 +1,3 @@
-# FM_3_COLUMN
-Frontend Mentor Challanges.
+# 3-Column
+Frontend Mentor
+Frontend mentor challange.
